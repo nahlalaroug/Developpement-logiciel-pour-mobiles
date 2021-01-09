@@ -1,0 +1,46 @@
+  [{
+      "p_acc_type": 1,
+      "p_firstname": "Jean",
+      "p_lastname": "Jean",
+      "p_login": "JJ",
+      "p_password": "1111",
+      "p_email": "ismael.sai@etu.umontpellier.fr",
+      "p_twitter": "@JJ",
+      "p_facebook": "jean jean",
+      "p_formula2": "progression",
+      "p_nbStudent": 2,
+      "p_students": [{
+          "s_email": "J@J.com"
+        },
+        {
+          "s_email": "G@G.com"
+        }
+      ]
+    },
+    {
+      "p_acc_type": 2,
+      "p_firstname": "Jacques",
+      "p_lastname": "Jacques",
+      "p_email": "J@J.com",
+      "p_password": "1111",
+      "p_grade": "CM1",
+      "p_formula1": [{
+        "UE": "Mathématique"
+      }, {
+        "UE": "Français"
+      }]
+    },
+    {
+      "p_acc_type": 2,
+      "p_firstname": "Gilles",
+      "p_lastname": "Gilles",
+      "p_email": "G@G.com",
+      "p_password": "1111",
+      "p_grade": "Terminal S spé Mathématique",
+      "p_formula1": [{
+        "UE": "Mathématique"
+      }, {
+        "UE": "Physique"
+      }]
+    }
+  ]
